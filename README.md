@@ -1,2 +1,0 @@
-[GOD-DIAMONDS-CUPONES-ARREGLADOS.zip](https://github.com/user-attachments/files/35113398/GOD-DIAMONDS-CUPONES-ARREGLADOS.zip)
-
