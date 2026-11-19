@@ -11,5 +11,9 @@ const CUPONES = {
     REDFIRE: {
         descuento: 25,
         activo: true
-    }
+    },
+    HASHIRO: {
+        descuento: 15,
+        activo: true
+    },
 };
