@@ -5,15 +5,15 @@
  */
 const CUPONES = {
     GODSCK: {
-        descuento: 10,
+        descuento: 6.2,
         activo: true
     },
     HASHIRO: {
-        descuento: 15,
+        descuento: 10,
         activo: true
     },
     REDFIRE: {
-        descuento: 25,
+        descuento: 15,
         activo: true
     }
 };
